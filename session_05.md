@@ -6,6 +6,10 @@
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 ### Perceptron
+    perceptron is single artificial neural network like human nueron. 
+    recieves input values and sum the weights after that applies activation functions to the sum
+    Perceptrons are used in machine learning and deep learning
+    They are used in machine-driven image recognition
 ### Backpropagation
 ### AI Winter
 ### DARPA Grand Challenge 2005
